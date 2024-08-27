@@ -33,3 +33,8 @@ salesdata.csv: Provides raw sales data, including order dates, customer informat
 
 # Conclusion
 This Sales Dashboard can be used for visualizing and analyzing sales performance, profitability, and customer trends.
+
+# Dashboard
+
+![Alt text](Dashboard.png)
+
